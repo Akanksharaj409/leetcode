@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akanksharaj409/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akanksharaj409/leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akanksharaj409/leetcode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Akanksharaj409/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

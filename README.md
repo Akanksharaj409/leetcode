@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akanksharaj409/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akanksharaj409/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Akanksharaj409/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Akanksharaj409/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |

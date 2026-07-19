@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akanksharaj409/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akanksharaj409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Akanksharaj409/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akanksharaj409/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0090-subsets-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akanksharaj409/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akanksharaj409/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akanksharaj409/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akanksharaj409/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksharaj409/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akanksharaj409/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akanksharaj409/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Akanksharaj409/leetcode/tree/master/0216-combination-sum-iii) |
 ## Combinatorics

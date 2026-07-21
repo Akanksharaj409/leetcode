@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akanksharaj409/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akanksharaj409/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksharaj409/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akanksharaj409/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Akanksharaj409/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Akanksharaj409/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
 ## Combinatorics
 |  |
 | ------- |

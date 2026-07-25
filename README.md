@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akanksharaj409/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akanksharaj409/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akanksharaj409/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akanksharaj409/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akanksharaj409/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |

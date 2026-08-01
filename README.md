@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Akanksharaj409/leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akanksharaj409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akanksharaj409/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksharaj409/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akanksharaj409/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Akanksharaj409/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksharaj409/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Akanksharaj409/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Akanksharaj409/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksharaj409/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

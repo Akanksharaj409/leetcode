@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akanksharaj409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Akanksharaj409/leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Akanksharaj409/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksharaj409/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akanksharaj409/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksharaj409/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akanksharaj409/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akanksharaj409/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksharaj409/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -336,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

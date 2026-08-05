@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akanksharaj409/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

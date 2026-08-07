@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akanksharaj409/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksharaj409/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Akanksharaj409/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akanksharaj409/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Akanksharaj409/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akanksharaj409/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/Akanksharaj409/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akanksharaj409/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/Akanksharaj409/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
 | ------- |

@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akanksharaj409/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akanksharaj409/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akanksharaj409/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akanksharaj409/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akanksharaj409/leetcode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akanksharaj409/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akanksharaj409/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Akanksharaj409/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Trie
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Akanksharaj409/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksharaj409/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |

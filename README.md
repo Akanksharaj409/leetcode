@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksharaj409/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Akanksharaj409/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akanksharaj409/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akanksharaj409/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akanksharaj409/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Akanksharaj409/leetcode/tree/master/3731-find-missing-elements) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Akanksharaj409/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |

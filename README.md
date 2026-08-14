@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akanksharaj409/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Akanksharaj409/leetcode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akanksharaj409/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1140-stone-game-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akanksharaj409/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akanksharaj409/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akanksharaj409/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksharaj409/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Akanksharaj409/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akanksharaj409/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |

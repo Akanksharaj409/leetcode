@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Akanksharaj409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Akanksharaj409/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akanksharaj409/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akanksharaj409/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akanksharaj409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akanksharaj409/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akanksharaj409/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akanksharaj409/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akanksharaj409/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksharaj409/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akanksharaj409/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Akanksharaj409/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Akanksharaj409/leetcode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksharaj409/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Akanksharaj409/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksharaj409/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -480,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akanksharaj409/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

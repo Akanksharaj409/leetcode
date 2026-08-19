@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Akanksharaj409/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Akanksharaj409/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Akanksharaj409/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Akanksharaj409/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Akanksharaj409/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksharaj409/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akanksharaj409/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akanksharaj409/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Akanksharaj409/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Akanksharaj409/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Akanksharaj409/leetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akanksharaj409/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akanksharaj409/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Akanksharaj409/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Akanksharaj409/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Akanksharaj409/leetcode/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Akanksharaj409/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Akanksharaj409/leetcode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -523,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akanksharaj409/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Akanksharaj409/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

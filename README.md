@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Akanksharaj409/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Akanksharaj409/leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Akanksharaj409/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akanksharaj409/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Akanksharaj409/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Akanksharaj409/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Akanksharaj409/leetcode/tree/master/0402-remove-k-digits) |
+| [0860-lemonade-change](https://github.com/Akanksharaj409/leetcode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Akanksharaj409/leetcode/tree/master/2029-stone-game-ix) |

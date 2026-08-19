@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Akanksharaj409/leetcode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksharaj409/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Akanksharaj409/leetcode/tree/master/1563-stone-game-v) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akanksharaj409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akanksharaj409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akanksharaj409/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akanksharaj409/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akanksharaj409/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Akanksharaj409/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Akanksharaj409/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akanksharaj409/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akanksharaj409/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akanksharaj409/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Akanksharaj409/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking

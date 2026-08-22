@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akanksharaj409/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akanksharaj409/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -159,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akanksharaj409/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akanksharaj409/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akanksharaj409/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |

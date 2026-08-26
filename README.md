@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Akanksharaj409/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akanksharaj409/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akanksharaj409/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akanksharaj409/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akanksharaj409/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akanksharaj409/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Akanksharaj409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Akanksharaj409/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akanksharaj409/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akanksharaj409/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akanksharaj409/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue

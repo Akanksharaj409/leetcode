@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Akanksharaj409/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Akanksharaj409/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akanksharaj409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Akanksharaj409/leetcode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akanksharaj409/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Akanksharaj409/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Akanksharaj409/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akanksharaj409/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Akanksharaj409/leetcode/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akanksharaj409/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Akanksharaj409/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Akanksharaj409/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akanksharaj409/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Akanksharaj409/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Akanksharaj409/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akanksharaj409/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bidirectional Search
 |  |

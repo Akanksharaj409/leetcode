@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akanksharaj409/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Akanksharaj409/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Akanksharaj409/leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Akanksharaj409/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Akanksharaj409/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksharaj409/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akanksharaj409/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Akanksharaj409/leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Akanksharaj409/leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |

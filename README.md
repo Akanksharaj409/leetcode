@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akanksharaj409/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Akanksharaj409/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Akanksharaj409/leetcode/tree/master/0735-asteroid-collision) |
+| [0827-making-a-large-island](https://github.com/Akanksharaj409/leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Akanksharaj409/leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Akanksharaj409/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Akanksharaj409/leetcode/tree/master/0877-stone-game) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akanksharaj409/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Akanksharaj409/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Akanksharaj409/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Akanksharaj409/leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Akanksharaj409/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Akanksharaj409/leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Akanksharaj409/leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Akanksharaj409/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Akanksharaj409/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akanksharaj409/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Akanksharaj409/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Akanksharaj409/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Akanksharaj409/leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Akanksharaj409/leetcode/tree/master/0994-rotting-oranges) |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akanksharaj409/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Akanksharaj409/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Akanksharaj409/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Akanksharaj409/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Akanksharaj409/leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akanksharaj409/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bidirectional Search

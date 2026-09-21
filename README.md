@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Akanksharaj409/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Akanksharaj409/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Akanksharaj409/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akanksharaj409/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Akanksharaj409/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akanksharaj409/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akanksharaj409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Akanksharaj409/leetcode/tree/master/0402-remove-k-digits) |
 | [0721-accounts-merge](https://github.com/Akanksharaj409/leetcode/tree/master/0721-accounts-merge) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akanksharaj409/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Akanksharaj409/leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Akanksharaj409/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akanksharaj409/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akanksharaj409/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksharaj409/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksharaj409/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -902,5 +905,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akanksharaj409/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Akanksharaj409/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

@@ -1,15 +1,15 @@
 class Solution {
     public String reverseWords(String s) {
-        s = s.trim();
-        String words[] = s.split("\\s+");
-        int i=0, j=words.length-1;
-        while(i<j) {
-            String temp = words[i];
-            words[i] = words[j];
-            words[j] = temp;
-            i++;
-            j--;
+        String words[] = s.trim().split("\\s+");
+
+        StringBuilder sb = new StringBuilder();
+        for(int i=words.length-1; i>=0; i--) {
+            sb.append(words[i]);
+
+            if(i != 0) {
+                sb.append(" ");
+            }
         }
-        return String.join(" ", words);
+        return sb.toString();
     }
 }

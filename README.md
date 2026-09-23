@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akanksharaj409/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Akanksharaj409/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akanksharaj409/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Akanksharaj409/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Akanksharaj409/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Akanksharaj409/leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Akanksharaj409/leetcode/tree/master/0282-expression-add-operators) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Akanksharaj409/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Akanksharaj409/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Akanksharaj409/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Akanksharaj409/leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Akanksharaj409/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Akanksharaj409/leetcode/tree/master/0118-pascals-triangle) |
@@ -959,4 +961,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akanksharaj409/leetcode/tree/master/0214-shortest-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akanksharaj409/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

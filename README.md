@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Akanksharaj409/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Akanksharaj409/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akanksharaj409/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Akanksharaj409/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Akanksharaj409/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Akanksharaj409/leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Akanksharaj409/leetcode/tree/master/0229-majority-element-ii) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akanksharaj409/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksharaj409/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akanksharaj409/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Akanksharaj409/leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Akanksharaj409/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Akanksharaj409/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Akanksharaj409/leetcode/tree/master/0542-01-matrix) |

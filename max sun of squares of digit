@@ -1,0 +1,25 @@
+class Solution {
+    public String maxSumOfSquares(int num, int sum) {
+        // Check if a valid number is possible
+        if (sum > 9 * num) {
+            return "";
+        }
+
+        StringBuilder result = new StringBuilder();
+
+        // Place the largest possible digits first
+        for (int i = 0; i < num; i++) {
+            int digit = Math.min(9, sum);
+
+            result.append(digit);
+            sum -= digit;
+        }
+
+        // If the sum is not zero, no valid number exists
+        if (sum > 0) {
+            return "";
+        }
+
+        return result.toString();
+    }
+}
